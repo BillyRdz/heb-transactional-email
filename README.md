@@ -38,7 +38,7 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Mortgify:** https://github.com/BillyRdz/Mortgify
 
-**JavaScript Social Splash:** https://github.com/BillyRdz/Javascript-Social-Splash
+**Marleylilly Promotional Email:** https://github.com/BillyRdz/marleylilly-promotional-email
 
 # Foundation for Emails Template
 
